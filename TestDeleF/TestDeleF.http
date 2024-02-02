@@ -1,0 +1,6 @@
+@TestDeleF_HostAddress = http://localhost:5237
+
+GET {{TestDeleF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
